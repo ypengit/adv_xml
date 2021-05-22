@@ -1,1 +1,4 @@
+# clion config files.
 .idea/
+# clion debug files.
+cmake-build-debug/
